@@ -55,7 +55,7 @@ h1 {
   column-gap: 20px;
   padding: 0 5rem;
 }
-.menu-item {
+.menu-list div {
   padding: 0 1rem 1rem;
   page-break-inside: avoid;
 }
